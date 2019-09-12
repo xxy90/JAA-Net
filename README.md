@@ -4,6 +4,7 @@ Unit Detection and Face Alignment
 
 ## For Training
 Use the command python train_model.py
+
 *AU_detect model did not contains attention block
 
 *AU_detect2 model contains attention block,and the init weight for attention is propotional to distance of landmark points
